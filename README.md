@@ -1,6 +1,6 @@
-# 💻 SCSS_Practice 💻
+## 💻 SCSS_Practice 💻
 
-## 🛍️ To Clone...
+### 🛍️ To Clone...
 
 - [x] [https://besthorrorscenes.com/](https://besthorrorscenes.com/)
 - [ ] [https://paint-box.com/](https://paint-box.com/)
